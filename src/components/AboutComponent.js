@@ -14,14 +14,15 @@ function About(props) {
                 </Media>
                 <Media body className="ml-2">
                   <Media heading>{leader.name}</Media>
-                  <p>{leader.abbr}</p>
+                  <p>{leader.designation}</p>
                   <p>{leader.description}</p>
                 </Media>
               </Media>
             </div>
           );
         });
-    
+        
+        // Returning the complete leader's list
         return <Media list>{leaders_list}</Media>;
       };
 
