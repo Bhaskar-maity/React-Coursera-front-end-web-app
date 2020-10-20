@@ -38,6 +38,9 @@ function RenderMenuItem ({dish, onClick}) {
                         <hr />
                     </div>          
                 </div>
+                <div className="row">
+                    {menu}
+                </div>
             </div>
         );
     }
