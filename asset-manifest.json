@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-Coursera-front-end-web-app/static/css/main.05c3950c.chunk.css",
+    "main.js": "/React-Coursera-front-end-web-app/static/js/main.07f8c347.chunk.js",
+    "main.js.map": "/React-Coursera-front-end-web-app/static/js/main.07f8c347.chunk.js.map",
+    "runtime-main.js": "/React-Coursera-front-end-web-app/static/js/runtime-main.da5978f2.js",
+    "runtime-main.js.map": "/React-Coursera-front-end-web-app/static/js/runtime-main.da5978f2.js.map",
+    "static/css/2.2f0d7615.chunk.css": "/React-Coursera-front-end-web-app/static/css/2.2f0d7615.chunk.css",
+    "static/js/2.2d2abf27.chunk.js": "/React-Coursera-front-end-web-app/static/js/2.2d2abf27.chunk.js",
+    "static/js/2.2d2abf27.chunk.js.map": "/React-Coursera-front-end-web-app/static/js/2.2d2abf27.chunk.js.map",
+    "index.html": "/React-Coursera-front-end-web-app/index.html",
+    "precache-manifest.ce76f3131bdb64da5d361ae826c2d3b7.js": "/React-Coursera-front-end-web-app/precache-manifest.ce76f3131bdb64da5d361ae826c2d3b7.js",
+    "service-worker.js": "/React-Coursera-front-end-web-app/service-worker.js",
+    "static/css/2.2f0d7615.chunk.css.map": "/React-Coursera-front-end-web-app/static/css/2.2f0d7615.chunk.css.map",
+    "static/css/main.05c3950c.chunk.css.map": "/React-Coursera-front-end-web-app/static/css/main.05c3950c.chunk.css.map",
+    "static/js/2.2d2abf27.chunk.js.LICENSE.txt": "/React-Coursera-front-end-web-app/static/js/2.2d2abf27.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/React-Coursera-front-end-web-app/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da5978f2.js",
+    "static/css/2.2f0d7615.chunk.css",
+    "static/js/2.2d2abf27.chunk.js",
+    "static/css/main.05c3950c.chunk.css",
+    "static/js/main.07f8c347.chunk.js"
+  ]
+}
